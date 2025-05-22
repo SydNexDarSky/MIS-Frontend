@@ -1,0 +1,9 @@
+body {
+  width: 100%;
+  min-height: 100vh; /* "vh": means View Height and the 100 means a 100% we don't usually put a 100% for heights */
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: extrabold;
+}
